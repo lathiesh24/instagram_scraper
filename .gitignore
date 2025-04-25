@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment Variables
+.env
+
+# Data folders (generated during scraping)
+data/
+reels_html/
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints (if ever used)
+.ipynb_checkpoints/
+
+# Logs (optional if you add logging)
+*.log
+
+# VSCode settings (optional if you're using VSCode)
+.vscode/
+
+# Render deploy config
+render.yaml
+
+# Python egg files
+*.egg-info/
+dist/
+build/
+
+# Pycharm IDE configs (optional)
+.idea/
+
+# Selenium downloaded drivers (if any)
